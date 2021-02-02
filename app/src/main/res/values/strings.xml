@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MathOP</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="difficult">Difficult</string>
+    <string name="choose_the_difficulty">Choose the difficulty</string>
+    <string name="math_op">Math OP</string>
+    <string name="choose_your_difficulty">Choose Your Difficulty</string>
+    <string name="anubhuti_199301171">Anubhuti 199301171</string>
+    <string name="click_to_generate_first_number">Click To Generate first number</string>
+    <string name="click_to_generate_second_number">Click To Generate second number</string>
+    <string name="click_to_generate_result">CLICK TO GENERATE RESULT</string>
+    <string name="click_to_generate_the_operation">CLICK TO GENERATE THE OPERATION</string>
+    <string name="click_to_generate_a_number">CLICK TO GENERATE A NUMBER</string>
+    <string name="click_to_check_your_task">CLICK TO CHECK YOUR TASK</string>
+    <string name="click_to_generate_value_of_n">CLICK TO GENERATE VALUE OF N</string>
+</resources>
