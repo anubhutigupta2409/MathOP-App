@@ -1,2 +1,5 @@
 # MathOP-App
-I have created a basic app which is a math quiz app. The app contains three difficulty levels easy, medium and difficult. And you need to perform tasks according to the difficulty of chosen. Once the user is finished thinking his answer, he can click the button to generate result and check if he's right or not.
+MathOP, as the name suggests is an Android Application, which makes the user an OP(shorthand for"overpowered"(a gaming slang)), in Mathematics. The game consists of three difficulty levels, where the difficulty is measured by complex math operations. 
+Language Used - Java
+Software Requirements - Android Studio
+Topics Covered - generating a new activity throught button's(widget) onClick, the ability to generate random numbers, UI changed by adding images to the drawable.
